@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Travel-Landingpage/precache-manifest.81cb1f5ba007b6da756a6614e88c04b6.js"
+  "/travel-landingpage/precache-manifest.eee807f82f004b48b7d163ad6040416c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Travel-Landingpage/index.html", {
+workbox.routing.registerNavigationRoute("/travel-landingpage/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

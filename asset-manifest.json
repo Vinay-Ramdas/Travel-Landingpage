@@ -1,15 +1,15 @@
 {
-  "main.css": "/Travel-Landingpage/static/css/main.accf05ce.chunk.css",
-  "main.js": "/Travel-Landingpage/static/js/main.72d1400f.chunk.js",
-  "main.js.map": "/Travel-Landingpage/static/js/main.72d1400f.chunk.js.map",
-  "static/js/1.0a3fad24.chunk.js": "/Travel-Landingpage/static/js/1.0a3fad24.chunk.js",
-  "static/js/1.0a3fad24.chunk.js.map": "/Travel-Landingpage/static/js/1.0a3fad24.chunk.js.map",
-  "static/js/2.c23d8609.chunk.js": "/Travel-Landingpage/static/js/2.c23d8609.chunk.js",
-  "static/js/2.c23d8609.chunk.js.map": "/Travel-Landingpage/static/js/2.c23d8609.chunk.js.map",
-  "runtime~main.js": "/Travel-Landingpage/static/js/runtime~main.b2d586c9.js",
-  "runtime~main.js.map": "/Travel-Landingpage/static/js/runtime~main.b2d586c9.js.map",
-  "static/css/main.accf05ce.chunk.css.map": "/Travel-Landingpage/static/css/main.accf05ce.chunk.css.map",
-  "index.html": "/Travel-Landingpage/index.html",
-  "precache-manifest.81cb1f5ba007b6da756a6614e88c04b6.js": "/Travel-Landingpage/precache-manifest.81cb1f5ba007b6da756a6614e88c04b6.js",
-  "service-worker.js": "/Travel-Landingpage/service-worker.js"
+  "main.css": "/travel-landingpage/static/css/main.accf05ce.chunk.css",
+  "main.js": "/travel-landingpage/static/js/main.72d1400f.chunk.js",
+  "main.js.map": "/travel-landingpage/static/js/main.72d1400f.chunk.js.map",
+  "static/js/1.0a3fad24.chunk.js": "/travel-landingpage/static/js/1.0a3fad24.chunk.js",
+  "static/js/1.0a3fad24.chunk.js.map": "/travel-landingpage/static/js/1.0a3fad24.chunk.js.map",
+  "static/js/2.c23d8609.chunk.js": "/travel-landingpage/static/js/2.c23d8609.chunk.js",
+  "static/js/2.c23d8609.chunk.js.map": "/travel-landingpage/static/js/2.c23d8609.chunk.js.map",
+  "runtime~main.js": "/travel-landingpage/static/js/runtime~main.67339aff.js",
+  "runtime~main.js.map": "/travel-landingpage/static/js/runtime~main.67339aff.js.map",
+  "static/css/main.accf05ce.chunk.css.map": "/travel-landingpage/static/css/main.accf05ce.chunk.css.map",
+  "index.html": "/travel-landingpage/index.html",
+  "precache-manifest.eee807f82f004b48b7d163ad6040416c.js": "/travel-landingpage/precache-manifest.eee807f82f004b48b7d163ad6040416c.js",
+  "service-worker.js": "/travel-landingpage/service-worker.js"
 }
